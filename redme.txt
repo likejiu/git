@@ -1,5 +1,5 @@
 Git is bug bug bug
 Git is free software
-Git is good
+bug----------------
 Creating a new branch is quick & simple
 merge
