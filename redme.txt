@@ -4,3 +4,4 @@ bug----------------
 Creating a new branch is quick & simple
 merge
 new git ---------------
+new winclone dev
