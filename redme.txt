@@ -1,4 +1,4 @@
-Git is a version control system.
+Git is bug bug bug
 Git is free software
 Git is good
 Creating a new branch is quick & simple
